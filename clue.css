@@ -13,3 +13,15 @@ html {
 #menupic {
     display: none;
 }
+
+.container {
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    transition: 0.4s;
+    transition-timing-function: ease-in-out;
+    width: 90%;
+    max-width: 500px;
+    min-width: 80%;
+    margin: 0 auto;
+    color: rgb(183, 182, 189);
+}
