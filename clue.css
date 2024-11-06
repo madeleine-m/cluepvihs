@@ -28,6 +28,7 @@ nav {
     display: sticky;
 }  
 
+
 .navclass ul {
     background-color: rgb(46, 46, 133);
     color: black;
@@ -102,11 +103,13 @@ ul.sub-menu li:hover {
     margin: 0px 8px 20px 6px;
 }
 
-.playtext h1 {
-    margin-left: 18%;
+#cluelogo {
+    height: 75px;
+    margin-left: 45%;
+    margin-top: 150px;
 }
 .playtext {
-    margin-left: 150px;
+    margin-left: 25%;
 }
 
 .playtext ul {
@@ -115,3 +118,58 @@ ul.sub-menu li:hover {
     color: white;
     margin-left: 120px;
 }
+
+/* #scene1 {
+    margin-left: 25%;
+}
+
+#scene2 {
+    margin-left: 25%;
+}
+
+#scene3 {
+    margin-left: 25%;
+}
+
+#scene4 {
+    margin-left: 25%;
+}
+
+#scene5 {
+    margin-left: 25%;
+}
+
+#scene6 {
+    margin-left: 25%;
+}
+
+#scene7 {
+    margin-left: 25%;
+}
+
+#scene8 {
+    margin-left: 25%;
+}
+
+#scene9 {
+    margin-left: 25%;
+}
+#scene10 {
+    margin-left: 25%;
+}
+
+#sceen11 {
+    margin-left: 25%;
+}
+
+#scene12 {
+    margin-left: 25%;
+}
+
+#scene13 {
+    margin-left: 25%;
+}
+
+#scene14 {
+    margin-left: 25%;
+} */
